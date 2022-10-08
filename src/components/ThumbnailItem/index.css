@@ -1,0 +1,17 @@
+/* Write your code here. */
+.List-Item {
+  /* margin: 10px 0px 0px; */
+  opacity: 0.5;
+}
+.Imaged {
+  /* width: 80px;
+  height: 80px;
+  border-radius: 10%; */
+  cursor: pointer;
+}
+.btn {
+  border: none;
+}
+.active-list {
+  opacity: 1;
+}

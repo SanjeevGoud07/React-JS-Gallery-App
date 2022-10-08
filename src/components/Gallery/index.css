@@ -1,0 +1,20 @@
+/* Write your code here. */
+.Container {
+  display: flex;
+  padding: 20px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.heading {
+  align-self: start;
+}
+.List {
+  margin: 10px 0px 0px;
+  list-style-type: none;
+  display: flex;
+  align-self: start;
+  align-items: flex-start;
+  justify-content: space-between;
+  /* gap: 30px; */
+}
